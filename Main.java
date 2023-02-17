@@ -8,10 +8,6 @@ import javafx.stage.Stage;
 import java.io.IOException;
 /** ----------------------------------------------------------------------------------------------------------*/
 
-/** LOCATION OF JAVADOCS
- * InventoryAppC482/javaDoc/thomas.inventoryappc482/module-summary.html
- * */
-
 /** When the Main class is launched, the user is taken to 'MainForm.fxml' which will be considered the Home page of the application */
 public class Main extends Application {
     @Override
