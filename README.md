@@ -1,4 +1,4 @@
-#Simple Inventory Management System build with Java, JavaFX and SceneBuilder
+# Simple Inventory Management System build with Java, JavaFX and SceneBuilder
 
 <h3>Description</h3>
 <p>This program simulates an inventory management system for a theoretical business. The program allows the user to add, modify, and delete both parts and products from the inventory. As well as assign associated parts to specified products.</p>
